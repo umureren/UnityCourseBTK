@@ -4910,10 +4910,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
-    - target: {fileID: 6184499408137118245, guid: 509315d838f598449b489a694b57d12c, type: 3}
-      propertyPath: m_SortingOrder
-      value: 4
-      objectReference: {fileID: 0}
     - target: {fileID: 7345959939149464187, guid: 509315d838f598449b489a694b57d12c, type: 3}
       propertyPath: carController
       value: 
